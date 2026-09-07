@@ -3,7 +3,7 @@ Examen final práctico de Machine Learning I - Predicción de valores inmobiliar
 # Examen Final Machine Learning I 
 
 ## Defensa en Video
-[](https://drive.google.com/file/d/1hmfF9fL9WjIn_boI5kWps1LIsw7FmWEZ/view?usp=drive_link)
+https://drive.google.com/file/d/1hmfF9fL9WjIn_boI5kWps1LIsw7FmWEZ/view?usp=drive_link
 
 **Autor:** Kevin Andrés Águila Urrutia
 
