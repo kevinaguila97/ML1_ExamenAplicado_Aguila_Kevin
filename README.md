@@ -1,6 +1,6 @@
 # ML1_ExamenAplicado_Aguila_Kevin
 Examen final práctico de Machine Learning I - Predicción de valores inmobiliarios en California.
-# Examen Final Machine Learning I 🚀
+# Examen Final Machine Learning I 
 
 ## Defensa en Video
 [](https://drive.google.com/file/d/1hmfF9fL9WjIn_boI5kWps1LIsw7FmWEZ/view?usp=drive_link)
